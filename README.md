@@ -1,4 +1,4 @@
-# SE3082 — Lab 10: CUDA Performance and Error Handling
+# SE3082 - Lab 10: CUDA Performance and Error Handling
 
 **Student ID:** IT24104155
 
